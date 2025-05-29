@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "runs/detect/yolov8_custom_train/weights/best.pt;runs/detect/yolov8_custom_train/weights" --add-data "runs/detect/yolov8_custom_train2/weights/best.pt;runs/detect/yolov8_custom_train2/weights" app.py
