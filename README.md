@@ -9,19 +9,15 @@ Este programa está diseñado para detectar la presencia de plagas en arboles de
 - Windows 11 64 bits
 - Visual C++ Redistributable para Visual Studio 2015–2022
 
-# Toda la documentacion esta disponible en la carpeta documentacion en formato pdf
+## Toda la documentacion esta disponible en la carpeta documentacion en formato pdf
 
 
 # Instalacion en modo desarrollador
 Abrir el entorno en pycharm.
-Para instalar las dependencias necesarias, ejecuta el siguiente comando en tu terminal:
-```bash
-pip install -r requirements.txt
-```
 
 
 ## Ejecución
-Una vez instaladas todas las dependencias debera ejecutar el entorno via pycharm 
+Una vez abierto debera ejecutar el entorno via consola en pycharm 
 con el siguiente comando 
 ```bash
 python app.py
@@ -68,7 +64,6 @@ Se ejecutara el instalador y luego solo seguir los pasos indicados.
 Al ejecutar el instalador nos preguntara en que ruta se va a instalar el programa, podemos dejar la ruta por defecto (recomendado)
 
 ![alt text](img/seleccionar_ruta.png)
-
 
 Damos en siguiente en esta parte dejando el nombre por defecto
 
