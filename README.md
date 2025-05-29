@@ -11,6 +11,14 @@ Este programa está diseñado para detectar la presencia de plagas en arboles de
 
 ## Toda la documentacion esta disponible en la carpeta documentacion en formato pdf
 
+Links de descarga
+
+Instalador
+[Texto visible](https://drive.google.com/file/d/1zNTolNuoeiXYfqKkpCfz-nGngFu2gXPN/view?usp=drive_link)
+
+Proyecto completo
+[Texto visible](https://drive.google.com/file/d/1zxSyWpFSUtMyB7VaPe4JG-YAFJRXLNWA/view?usp=drive_link)
+
 
 # Instalacion en modo desarrollador
 Abrir el entorno en pycharm.
