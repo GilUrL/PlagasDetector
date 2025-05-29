@@ -4,10 +4,12 @@ Este programa está diseñado para detectar la presencia de plagas en arboles de
 
 
 ## Requisitos del sistema
-- Python 3.x
+- Python 3.13 
 - Pycharm Community Edition (opcional)
 - Windows 11 64 bits
 - Visual C++ Redistributable para Visual Studio 2015–2022
+
+# Toda la documentacion esta disponible en la carpeta documentacion en formato pdf
 
 
 # Instalacion en modo desarrollador
